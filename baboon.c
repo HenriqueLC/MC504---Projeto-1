@@ -1,6 +1,3 @@
-/*
- * Problema do barbeiro dorminhoco.
- */ 
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
